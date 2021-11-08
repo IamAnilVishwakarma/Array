@@ -2,7 +2,7 @@
 Array related to solved program.
 
 package com.company;
-public class maxmin{
+public class Main{
     public static void main(String[] args) {
 
         int arr[] = {100, 20, 30, 40, 50, 15, 9, 2};
